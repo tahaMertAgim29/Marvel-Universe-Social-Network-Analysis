@@ -3,7 +3,7 @@
 ## Introduction
 
 This is my project done in comprehension of CS403 Social Networks course. This project is generally about making analysis on the social network such as
-community detection, centrality measurements and statistical analysis etc.
+community detection, centrality measurements and statistical analysis etc using Python and some of its associated libraries.
 
 ## Prerequities
 - Jupyter Notebook
