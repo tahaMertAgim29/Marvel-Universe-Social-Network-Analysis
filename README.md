@@ -34,6 +34,13 @@ community detection, centrality measurements and statistical analysis etc.
 
 ## Cloning the repository
 
+Clone the repository in your associated path via the git command below:
+```
+git clone https://github.com/tahaMertAgim29/Marvel-Universe-Social-Network-Analysis.git
+```
+>[!WARNING]
+> You do only cloning the repository via your Command Prompt. Then, you should open the folder with your IDE.
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python%20-%20%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
