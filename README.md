@@ -29,7 +29,7 @@ community detection, centrality measurements and statistical analysis etc using 
       |-- network.xml
 ```
 >[!IMPORTANT]
-> `network.gml` and `network.xml` files are helper to create `marvel_universe.graphml` via AI model. However,
+> `network.gml` and `network.xml` files are helper to create `marvel_universe.graphml` via AI model. However, if you
 > run into a problem during the execution of the code due to a file issue, you will need to benefit from these files.
 
 ## Cloning the repository
